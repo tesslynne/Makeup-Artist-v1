@@ -1,0 +1,22 @@
+body {
+	background: #FFF6F0;
+}
+
+.navbar-brand {
+	font-family: Times;
+	color: #FFF6f0;
+}
+
+nav li a {
+	color: #FFF6f0;
+
+}
+
+.carousel-caption, .featurette-heading {
+	font-family: 'Cookie', cursive;
+}
+
+.carousel-caption h1 {
+		font-size: 55px;
+	    text-shadow: 5px 2px 8px black;
+}
