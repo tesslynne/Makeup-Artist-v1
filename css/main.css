@@ -1,5 +1,8 @@
+* {
+	margin: 0;
+}
 body {
-	background: #FFF6F0;
+	background: #ffffcc;
 }
 
 .navbar-brand {
@@ -20,3 +23,19 @@ nav li a {
 		font-size: 55px;
 	    text-shadow: 5px 2px 8px black;
 }
+
+/*styles for contact form*/
+    legend .header {
+        color: #36A0FF;
+        font-size: 27px;
+        padding: 10px;
+    }
+
+    .bigicon {
+        font-size: 25px;
+        color: #36A0FF;
+    }
+
+    .text-center {
+    	font-family: 'Cookie', cursive;
+    }
